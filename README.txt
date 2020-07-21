@@ -1,0 +1,1 @@
+html and css codes for a basic image gallery
